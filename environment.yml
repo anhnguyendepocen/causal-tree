@@ -1,0 +1,39 @@
+name: causal-tree 
+
+channels:
+- conda
+- conda-forge
+- r
+
+dependencies:
+- readline
+- numpy
+- pandas
+- black 
+- flake8
+- scipy=1.2.1
+- scikit-learn
+- seaborn 
+- jupyterlab
+- matplotlib
+- jupyter
+- jupyter_contrib_nbextensions
+- jupyter_nbextensions_configurator
+- pip
+- pip:
+  - graphviz 
+  - rpy2
+- graphviz
+- r-essentials
+- rpy2
+- r-tidyverse
+- r-doParallel 
+- r-fnn
+- r-sandwich
+- r-plyr
+- r-modelr
+- r-rpart
+- r-grf 
+- r-matching
+- r-boot
+- r-lattice
