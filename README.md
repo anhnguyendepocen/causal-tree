@@ -77,7 +77,6 @@ ctree_sparse.plot()  # plots tree in a hierachical (upside-down) tree like struc
 * ***Generalized Random Forests***, Susan Athey, Julie Tibshirani and Stefan Wager; <font size="2">(Ann. Statist.; Volume 47, Number 2 (2019), 1148-1178.)</font>
 
 ---
-[//]: <> (Comment: Badges for Travis CI, MIT License and Black Code Style ![Build Status](https://travis-ci.org/HumanCapitalAnalysis/student-project-timmens.svg?branch=master https://travis-ci.org/HumanCapitalAnalysis/student-project-timmens))
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](HumanCapitalAnalysis/student-project-timmens/blob/master/LICENSE) <a href="https://github.com/python/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 
