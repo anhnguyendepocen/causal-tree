@@ -1,11 +1,11 @@
 # Causal Tree
-<a href="https://nbviewer.jupyter.org/github/timmens/causal-tree/blob/master/causal_tree/causal_tree.ipynb"
+<a href="https://nbviewer.jupyter.org/github/timmens/causal-tree/blob/master/causal_tree.ipynb"
    target="_parent">
    <img align="center" 
   src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
       width="109" height="20">
 </a>
-<a href="https://mybinder.org/v2/gh/timmens/causal-tree/master?filepath=causal_tree%2Fcausal_tree.ipynb" 
+<a href="https://mybinder.org/v2/gh/timmens/causal-tree/master?filepath=causal_tree.ipynb" 
     target="_parent">
     <img align="center" 
        src="https://mybinder.org/badge_logo.svg" 
@@ -18,13 +18,13 @@ In this part of the project we will focus on implementing the causal tree algori
 
 
 <font size=2>[1]: See notebook `decision_tree_testing.ipynb` for a visual check on estimation performance of the decision tree implementation by pressing buttons on the right.</font>
-<a href="https://nbviewer.jupyter.org/github/timmens/causal-tree/blob/master/causal_tree/decision_tree_testing.ipynb"
+<a href="https://nbviewer.jupyter.org/github/timmens/causal-tree/blob/master/decision_tree_testing.ipynb"
    target="_parent">
    <img align="center" 
   src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
       width="80" height="15">
 </a>
-<a href="https://mybinder.org/v2/gh/timmens/causal-tree/master?filepath=causal_tree%2Fdecision_tree_testing.ipynb" 
+<a href="https://mybinder.org/v2/gh/timmens/causal-tree/master?filepath=decision_tree_testing.ipynb" 
     target="_parent">
     <img align="center" 
        src="https://mybinder.org/badge_logo.svg" 
@@ -77,8 +77,7 @@ ctree_sparse.plot()  # plots tree in a hierachical (upside-down) tree like struc
 * ***Generalized Random Forests***, Susan Athey, Julie Tibshirani and Stefan Wager; <font size="2">(Ann. Statist.; Volume 47, Number 2 (2019), 1148-1178.)</font>
 
 ---
-[//]: <> (Comment: Badges for Travis CI, MIT License and Black Code Style)
-[//]: <> ([![Build Status](https://travis-ci.org/HumanCapitalAnalysis/student-project-timmens.svg?branch=master)](https://travis-ci.org/HumanCapitalAnalysis/student-project-timmens))
+[//]: <> (Comment: Badges for Travis CI, MIT License and Black Code Style ![Build Status](https://travis-ci.org/HumanCapitalAnalysis/student-project-timmens.svg?branch=master https://travis-ci.org/HumanCapitalAnalysis/student-project-timmens))
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](HumanCapitalAnalysis/student-project-timmens/blob/master/LICENSE) <a href="https://github.com/python/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 
